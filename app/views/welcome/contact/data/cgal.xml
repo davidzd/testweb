@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<photos url_path="images/" link="http://www.google.com/">
+		<image pic="im1.jpg" />
+	</photos>
+<title>Contact Form</title>
+<request field1="NAME" field2="E-MAIL" field3="PHONE" field4="MESSAGE">email.php</request>
+<description><![CDATA[<b>UT TELLUS DOLOR, DAPIBUS EGET,</b> ELEMENTUM VEL, CURSUS ELEIFEND, ELIT. AENEAN AUCTOR WISI ET URNA. ALIQUAM ERAT VOLUTPAT. DUIS AC TURPIS. DONEC SIT.<br><br>TELEPHONE: 	+1 800 599 2335<br>FREEPHONE: 	+1 800 599 2545<br>FAX:		+1 800 599 2547<br><a href="mailto:mail@companyname.com">E-MAIL:       INFO@COMPANY.COM</a>]]></description>
+
+</data>

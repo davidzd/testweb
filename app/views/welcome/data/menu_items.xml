@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<privacy  color="#663390" link="privacy/flash.swf" path_data ="privacy/data/cgal.xml" path_images ="privacy/" />
+    <item caption="My Blog"  color="#e62800" link="content/flash.swf" path_data ="/articles" path_images ="content/" />
+    <item caption="News"  color="#0051ac" link="news/flash.swf" path_data ="news/data/cgal.xml" path_images ="news/" />
+    <item caption="Gallery"  color="#407d00" link="gallery/flash.swf" path_data ="gallery/data/cgal.xml" path_images ="gallery/" />
+    <item caption="Contact"  color="#bca000" link="contact/flash.swf" path_data ="contact/data/cgal.xml" path_images ="contact/" />
+<%= link_to 'My Blog', controller: 'articles' %>
+<%= link_to 'My blog1', controller: 'articles'%>
+
+</data>

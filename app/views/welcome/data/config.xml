@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<title><![CDATA[ad]]></title>
+<slogan><![CDATA[creative bureau]]></slogan>
+<color  id="#0d1116" />
+<logo enable="0"  path=""/>
+<background  enable="0" bgposition="center" path=""/>
+<music enable="1" path="music/track1.mp3"/>
+<year><![CDATA[CREATIVE BUREAU @ 2013 |]]></year>
+</data>
